@@ -14,7 +14,8 @@ Auto-farm script for Discord activities. Runs continuously, respecting cooldowns
 2. **Access the Console:** Click on the **Console** tab at the top of the developer window.
 3. **Enable Pasting:** If prompted by Discord, type `allow pasting` and hit **Enter**.
 4. **Run the Script:** Paste the provided code into the console and press **Enter**.
-5. **Finalize:**
+   > ⚠️ Only run the script when your abilities are on cooldown: <img width="1000" height="103" alt="Cooldown Example" src="https://github.com/user-attachments/assets/fc8a2043-9ebb-412b-9a3b-81c424f54ea2" />
+6. **Finalize:**
    * Close the Developer Tools and wait.
 
 ## 🛠️ Troubleshooting (Console won't open?)
