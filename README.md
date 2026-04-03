@@ -18,6 +18,13 @@ Auto-farm script for Discord activities. Runs continuously, respecting cooldowns
 6. **Finalize:**
    * Close the Developer Tools and wait.
 
+## 💬 Support
+
+Need help or found an issue?  
+Join the support server and ping me:
+
+👉 https://discord.gg/WHteqMY2kn
+
 ## 🛠️ Troubleshooting (Console won't open?)
 
 If `Ctrl + Shift + I` does not work, do one of the following:
